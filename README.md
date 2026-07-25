@@ -15,3 +15,9 @@ This's a sample of my learning [code](https://gist.github.com/Justfranchiks/4cc0
 ### Colab Example
 
 This's a [notebook](https://gist.github.com/Justfranchiks/4cc023c64402d8890c8237ca5698df8a)
+
+
+### Images
+
+<img width="558" height="284" alt="image" src="https://github.com/user-attachments/assets/ccd67937-53a6-435f-a479-178148111134" />
+
